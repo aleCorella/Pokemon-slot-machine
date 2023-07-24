@@ -1,6 +1,6 @@
 # 🎰 Pokémon-themed Slot Machine Emulator
 
-![PokemonSlot](images/PokemonSlot.png)
+[![Pokemon-Slot.png](https://i.postimg.cc/5071VrgH/Pokemon-Slot.png)](https://postimg.cc/k6bLNfk9)
 
 This project is an emulator of a Pokémon-themed Slot Machine. The main idea is to register as a user, and upon registration, you will receive an initial balance of $1000. Each play costs $100, and you have a total of 10 attempts.
 
